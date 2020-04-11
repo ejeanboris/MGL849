@@ -1,0 +1,1 @@
+python2 lab2.py
