@@ -15,7 +15,7 @@ Dans le laboratoire #2, on veut que vous consolidiez vos connaissances, acquises
 
 Dans ce laboratoire, vous allez concevoir et implémenter un logiciel embarqué sur le Raspberry Pi 3. Ce logiciel a pour objectif principal de réagir à la détection des fuites de gaz simulées d’un programme fourni pour ce laboratoire. Ce logiciel de simulation joue aussi le rôle d’un outil de test de la fiabilité et l’efficacité du logiciel embarqué avant son installation dans une zone industrielle (au niveau des réservoirs ou des tuyauteries).
 
-![Figure 1 - Interface du programme de simulation](https://refs.rehounou.ca/uploads/images/gallery/2025-01/scaled-1680-/s2cS4WwuMhRVus6x-image.png)
+![Figure 1 - Interface du programme de simulation](https://camo.githubusercontent.com/27c174d5526113ae1c8b63b694a38edf1e96db511741b0f7825cdb1ecd296072/68747470733a2f2f726566732e7265686f756e6f752e63612f75706c6f6164732f696d616765732f67616c6c6572792f323032352d30312f7363616c65642d313638302d2f73326353345777754d685256757336782d696d6167652e706e67)
 
 **Figure 1** présente l’interface du programme de simulation de fuites des gaz.
 
